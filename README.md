@@ -10,7 +10,7 @@ Hi! I’m Aryan Awasthi, currently pursuing Bachelor degrees in Business Adminis
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/aryanawasthi26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aryanawasthi26" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/aryan_awasthi26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryan_awasthi26" height="30" width="40" /></a>
    <a href="mailto:aryanawasthi344@gmail.com" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
