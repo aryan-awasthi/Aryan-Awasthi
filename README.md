@@ -1,6 +1,6 @@
 # Hello, I'm [Aryan Awasthi!](www.linkedin.com/in/aryanawasthi344)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=I'm+an+Business-Analyst;I'm+a+Software+Developer;I'm+into+Web+Development)](https://www.linkedin.com/in/sarvagra)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=I'm+an+Business-Analyst;)](https://www.linkedin.com/in/sarvagra)
 
 
 
@@ -24,15 +24,15 @@ Hi! I’m Aryan Awasthi, currently pursuing Bachelor degrees in Business Adminis
 
 
 
-### 🔧 Skills & Interests
-- Web Development  
-- Data Structure and Algorithms  
-- Automation & Workflow Optimization  
+### 🔧 Skills
+- Web Development
 - Data Analytics  
-- Applied AI in real-world problem solving
 - Excel
 - MySQL
-- PowerBI 
+- PowerBI
+- Tableau   
+- Data Structure and Algorithms   
+
 
 
 ### 🚀 What Drives Me
